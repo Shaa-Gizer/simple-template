@@ -1,0 +1,298 @@
+.body {
+    font-family: 'Arial', sans-serif;
+    font-style: normal;
+}
+
+.wrap {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.center {
+    padding: 0 calc(50% - 1180px / 2);
+}
+
+.productName {
+    color: white;
+    background-color: #445161;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.productName_title {
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 69px;
+    margin-bottom: 50px;
+}
+
+.productName_list {
+    list-style: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.buyProduct_listItem {
+
+}
+
+.productName_img {
+    width: 469px;
+    height: 214px;
+}
+
+.productName_wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutProduct {
+
+}
+
+.aboutProduct_title {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #445161;
+}
+
+.aboutProduct_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #333333;
+}
+
+.aboutProduct_img {
+    width: 430px;
+    height: 245px;
+    left: 792px;
+    top: 45px;
+
+    background: #445161;
+}
+
+.productPluses {
+    background: #F5F5F5;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.productPluses_title {
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #445161;
+}
+
+.productPluses_list {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #333333;
+}
+
+.screenshots {
+
+}
+
+.screenshots_title {
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #445161;
+}
+
+.screenshots_img {
+    width: 200px;
+    height: 150px;
+    left: 1px;
+    top: 2px;
+
+    background: #445161;
+}
+
+.screenshots_blockTitle {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #445161;
+}
+
+.screenshots_blockText {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #333333;
+}
+
+.reviews {
+    background: #F5F5F5;
+}
+
+.reviews_title {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #445161;
+}
+
+.reviews_img {
+    width: 63.46px;
+    height: 63.46px;
+    left: 5.69px;
+    top: 3.69px;
+
+    background: #445161;
+}
+
+.reviews_textBlock {
+    width: 483px;
+    height: 121px;
+    left: 85px;
+    top: 1px;
+
+    background: #EBEBEB;
+    border-radius: 5px;
+}
+
+.reviews_text {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.reviews_username {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #989898;
+}
+
+.buyProduct {
+
+}
+
+.buyProduct_title {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #445161;
+}
+
+.buyProduct_block {
+    background-color: #445161;
+}
+
+.buyProduct_blockTitle {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+.buyProduct_blockPrice {
+    box-sizing: border-box;
+
+    width: 300px;
+    height: 71px;
+    left: 0px;
+    top: 51px;
+
+    background: #FFFFFF;
+    border: 2px solid #445162;
+}
+
+.buyProduct_price {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 30px;
+
+    color: #445162;
+}
+
+.buyProduct_list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.buyProduct_btn {
+    width: 260px;
+    height: 40px;
+    left: 1px;
+    top: 2px;
+
+    background: #FFFFFF;
+
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+
+    color: #445161;
+}
+
+.contacts {
+    background-color: #445161;
+}
+
+.contacts_title {
+    width: 120px;
+    height: 36px;
+    left: 576px;
+    top: 25px;
+
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.contacts_input {
+    width: 503px;
+    height: 43px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.contacts_formBtn {
+    width: 143px;
+    height: 43px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #445162;
+}
